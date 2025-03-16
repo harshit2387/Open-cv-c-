@@ -1,1 +1,2 @@
-# Open-cv-c-
+# Open-cv-c++
+short Note
