@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Generating code
+  40 of 101 functions (39.6%) were compiled, the rest were copied from previous compilation.
+    28 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  setup.vcxproj -> C:\Users\sharm\OneDrive\Desktop\adriuno\codeing open cv\setup\x64\Release\setup.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
